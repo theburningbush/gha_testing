@@ -1,4 +1,4 @@
-name: actions_ci_tests
+name: ci_testing
 
 on:
   push:
